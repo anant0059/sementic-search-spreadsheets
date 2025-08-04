@@ -117,7 +117,7 @@ This blend of structural parsing and LLM understanding allows the system to work
 
 ![Detailed Architecture Diagram](Semantic_Search_Architecture.png)
 
-```mermaid
+```
 flowchart LR
   subgraph Ingestion
     A[📊 Excel Files] --> B[🧩 load_and_parse()]
