@@ -1,4 +1,3 @@
-````markdown
 # 📊 Semantic Search for Spreadsheets
 
 This project delivers a **semantic search engine** for Excel workbooks, transforming raw formulas into business‑readable insights. Users pose natural‑language queries like:
@@ -209,4 +208,3 @@ Each challenge is described alongside the thought process and precise code chang
 
 ```
 
-```
