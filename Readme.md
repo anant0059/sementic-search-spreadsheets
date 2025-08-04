@@ -133,7 +133,6 @@ flowchart LR
     E --> F[🧾 QA Chain] --> G[💬 JSON Response]
   end
 ```
-````
 
 - **Global Maps**:
   - `label_map: Dict[str, str]` — maps `"path|sheet!cell"` to header/label text.
@@ -204,7 +203,5 @@ Each challenge is described alongside the thought process and precise code chang
     ]
   }
 }
-```
-
 ```
 
